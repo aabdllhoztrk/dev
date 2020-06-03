@@ -12,7 +12,6 @@
         </div>
         <asp:Button ID="Button1" runat="server" Text="Button" />
     </form>
-    <p>
-        abdullahasfafsahmetaf</p>
+    <p>kardelen yaz</p>
 </body>
 </html>

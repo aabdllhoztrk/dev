@@ -12,6 +12,11 @@
         </div>
         <asp:Button ID="Button1" runat="server" Text="Button" />
     </form>
-    <p>kardelen yazilim</p>
+    <form id="form2" runat="server">
+        <div>
+        </div>
+        <asp:Button ID="Button1" runat="server" Text="Button" />
+    </form>
+    <p>kardelen yazilim </p>
 </body>
 </html>
